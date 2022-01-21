@@ -1,2 +1,3 @@
 #!/bin/bash
+exec_bash("export USER='\"MyUser'\"; ./1<F4>hello_you")
 echo "hello $USER"
