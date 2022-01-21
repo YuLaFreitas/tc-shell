@@ -1,2 +1,2 @@
-#!/bin/bash
-alias USER="MyUser" | echo "hello $USER"
+#!/bin/basei
+echo "hello MyUser"
