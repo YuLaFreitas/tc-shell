@@ -1,2 +1,2 @@
 #!/bin/bash
-exec_bash("export USER='\"MyUser'\"; ./1-hello_you"); echo "hello $USER"
+exec_bash("export USER='\"MyUser'\"; ./1-hello_you") echo "hello $USER"
