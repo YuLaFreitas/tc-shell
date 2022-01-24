@@ -1,0 +1,2 @@
+#!/bin/bash
+bc <<< "sacle=2; $NUM"
