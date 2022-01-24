@@ -1,2 +1,2 @@
 #!/bin/bash
-bc <<< "sacle=2; $NUM"
+printf '%.2f\n' $(echo $NUM)
