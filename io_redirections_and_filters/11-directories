@@ -1,0 +1,2 @@
+#!/bin/bash
+ls -F | grep -v "ls -lRa . ./test_dir ./test_dir/*" | wc -l
