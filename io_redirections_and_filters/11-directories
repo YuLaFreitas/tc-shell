@@ -1,2 +1,2 @@
 #!/bin/bash
-ls -F | grep -v "ls -lRa . ./test_dir" | wc -l
+ls -F | grep -v "ls -lRa . ./test_dir ./test_dir/photos ./test_dir/rep.gif" | wc -l
